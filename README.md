@@ -15,3 +15,9 @@ Neste contexto, objetos são abstrações de entidades existentes no domínio em
 ***
 Encapsular significa **esconder a implementação dos objetos, criando assim interfaces de uso mais concisas e fáceis de
 usar/entender.** O encapsulamento favorece principalmente dois aspectos de um sistema: a manutenção e a evolução.
+
+## Herança
+***
+Herança **permite que você defina uma classe filha que utiliza (herda), estende ou modifica o comportamento de uma 
+classe pai.** A classe cujos membros são herdados é chamada de classe base. A classe que herda os membros da classe 
+base é chamada de classe derivada.
