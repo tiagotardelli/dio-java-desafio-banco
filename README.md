@@ -21,3 +21,10 @@ usar/entender.** O encapsulamento favorece principalmente dois aspectos de um si
 Herança **permite que você defina uma classe filha que utiliza (herda), estende ou modifica o comportamento de uma 
 classe pai.** A classe cujos membros são herdados é chamada de classe base. A classe que herda os membros da classe 
 base é chamada de classe derivada.
+
+## Polimorfismo
+***
+Polimorfismo **é a capacidade de um objeto poder ser referenciado de várias formas,** ou seja, é a capacidade de tratar 
+objetos criados a partir das classes específicas como objeto de uma classe genérica. Cuidado, polimorfismo não quer 
+dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que 
+pode mudar é a maneira como nos referimos a ele. 
